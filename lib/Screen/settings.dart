@@ -1,4 +1,4 @@
-import 'package:assignment/notifier.dart';
+import 'package:assignment/Data/notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

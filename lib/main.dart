@@ -1,6 +1,6 @@
-import 'package:assignment/home.dart';
-import 'package:assignment/notifier.dart';
-import 'package:assignment/settings.dart';
+import 'package:assignment/Screen/home.dart';
+import 'package:assignment/Data/notifier.dart';
+import 'package:assignment/Screen/settings.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

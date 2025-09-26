@@ -12,8 +12,6 @@ A Flutter-based finance and trading application that provides a user-friendly in
 
 ## Screenshots
 
-## Screenshots
-
 | Home Screen (Light Theme) | Home Screen (Dark Theme) |
 | :---: | :---: |
 | ![Home Light Theme](assets/Assignment_Images/Home_LightTheme.png) | ![Home Dark Theme](assets/Assignment_Images/Home_DarkTheme.png) |

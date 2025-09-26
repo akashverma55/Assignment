@@ -20,7 +20,7 @@ class CardDetailsList extends StatelessWidget {
           shadowColor: theme ? Colors.grey[200] : Colors.grey,
           margin: EdgeInsets.only(bottom: 20, right: 20, left: 20),
           shape: RoundedRectangleBorder(
-            borderRadius: BorderRadiusGeometry.circular(20),
+            borderRadius: BorderRadius.circular(20),
           ),
           child: Container(
             decoration: BoxDecoration(
